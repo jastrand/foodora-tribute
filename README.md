@@ -1,23 +1,14 @@
-Build a Food website 🌮🥑
+# Food Review Website
+This website is build using an API that fetches healty vegetarian restaurants in New York. You can sort the options by prize range and delivery options.
 
-This was a project at Technigo Boot Camp. This website has been build using Zomato open API filitered on Vegetarian Food in New York.
+# Tech used 🧠
+- Javascript ES6
+- Filter functions, Foreach, OnClick and If statements. 
+- API
+- CSS - Flexbox
+- HTML
 
-Focus: Javascript & API's! 
-
-
-Requirements:
-
-💰Filter on price range
-
-Add so that your users can filter restaurants based on different price ranges.
-
-🚀Sort on price
-
-Add so that your users can sort the resturants on price, cheap to expensive using the average_cost_for_two parameter.
+# View it live
+https://jovial-noether-7b297d.netlify.com/
 
 
-💬Filter on delivery options
-
-Make it so your users can choose to only show resturants which have delivery (has_online_delivery) or can be booked in advance (has_table_booking).
-
-📱Make the page responsive
